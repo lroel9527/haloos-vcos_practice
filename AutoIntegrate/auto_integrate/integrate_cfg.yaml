@@ -1,0 +1,15 @@
+Project:
+  Prj_Name: ECU_A 
+  Prj_File_Name: rt_demo.vcosproject
+
+Integration_steps:
+  CopyArxml: yes
+  ImportArxml: yes
+  TaskMapping: yes
+  PortMapping: yes
+  DataMapping: no
+  ServiceMapping: yes
+  GenAllSchedule: yes
+  Validation: yes
+  CodeGeneration: yes
+  
